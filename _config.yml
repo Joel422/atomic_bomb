@@ -1,5 +1,5 @@
 
-baseurl: "char" # the subpath o your site, e.g. /blog
+baseurl: "atomic_bomb" # the subpath o your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
